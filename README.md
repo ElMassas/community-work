@@ -16,13 +16,13 @@ Este site é um repositório público que funciona como registo de assoiações 
 
 | Associação | Site | Área de trabalho |  Religiosa | Zona(s) país
 |------|--------|---------|---------| ---------|
-| Academia do Johnson | [Link](https://www.academiadojohnson.com/como-ajudar) | Apoio comunitário | Não | Lisboa
+| **Academia do Johnson** | [Link](https://www.academiadojohnson.com/como-ajudar) | Apoio comunitário | Não | Lisboa
 | **Amnistia Internacional Portugal** | [Link](https://www.amnistia.pt/tornar-me-ativista-ou-voluntario/) | Justiça/Direitos humanos | Não | Lisboa, Porto
-| Aproximar | [Link](https://www.aproximar.pt/voluntariado-aproximar.html) | Apoio Social | Não | Lisboa
-| Banco Alimentar | [Link](https://www.bancoalimentar.pt/quero-ser-voluntario/) | Apoio Social focado em alimentação | Não | Portugal + Ilhas
-|*CASA* (Centro de apoio ao sem abrigo) | [Link](https://casa-apoioaosemabrigo.org/) | Habitação | Não | Portugal continental + Madeira
-| Cruz Vermelha| [Link](https://www.cruzvermelha.pt/voluntariado.html) | Apoio Humanitário/Saúde | Não, mas muitas vezes associados | Portugal Continental
-| Chão dos meninos | [Link](https://www.chaodosmeninos.pt/areas-de-apoio-e-atividades/) | Apoio infantil/Familiar | Não | Évora
-| Just a change | [Link](https://justachange.pt/en/volunteers/) | Habitação | Não | Portugal continental
-| União Zoófila | [Link](https://www.uniaozoofila.org/en/ajudar/) | Canil | Não | Lisboa
+| **Aproximar** | [Link](https://www.aproximar.pt/voluntariado-aproximar.html) | Apoio Social | Não | Lisboa
+| **Banco Alimentar** | [Link](https://www.bancoalimentar.pt/quero-ser-voluntario/) | Apoio Social focado em alimentação | Não | Portugal + Ilhas
+|**CASA** (Centro de apoio ao sem abrigo) | [Link](https://casa-apoioaosemabrigo.org/) | Habitação | Não | Portugal continental + Madeira
+| **Cruz Vermelha** | [Link](https://www.cruzvermelha.pt/voluntariado.html) | Apoio Humanitário/Saúde | Não, mas muitas vezes associados | Portugal Continental
+| **Chão dos meninos** | [Link](https://www.chaodosmeninos.pt/areas-de-apoio-e-atividades/) | Apoio infantil/Familiar | Não | Évora
+| **Just a change** | [Link](https://justachange.pt/en/volunteers/) | Habitação | Não | Portugal continental
+| **União Zoófila** | [Link](https://www.uniaozoofila.org/en/ajudar/) | Canil | Não | Lisboa
 

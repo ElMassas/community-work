@@ -1,9 +1,3 @@
-# Trabalho comunitário 
-
----
-
-
-
 #### Objectivo website
 
 Já existem plataformas com intuito semelhante, mas em grande parte estão desatualizadas ao indicarem assiações que já não existem ou links que não apontam para nenhum website.

@@ -38,4 +38,5 @@ Este é um repositório público que funciona como registo de assoiações não 
 | **Liga Portuguesa contra o Cancro** | [Link](https://www.ligacontracancro.pt/como-voluntario/) | Apoio a pessoas com cancro | Não | Portugal continental
 | **Mundo a sorrir** | [Link](https://www.mundoasorrir.org/pt/voluntarios) | Saúde | Não | Portugal continental
 | **União Zoófila** | [Link](https://www.uniaozoofila.org/en/ajudar/) | Canil | Não | Lisboa
+| **Pais 21** | [Link](https://pais21.pt/) | Apoio a pessoas com Trissomia 21 | Não | Lisboa
 

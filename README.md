@@ -1,8 +1,10 @@
 #### Objectivo
 
-Existem plataformas com intuito semelhante, mas em grande parte estão desatualizadas ao indicarem assiações que já não existem, links que não apontam para nenhum website ou bastante incompletas.
+Existem plataformas com intuito semelhante, mas em grande parte estão desatualizadas ao indicarem associações que já não existem, links que não apontam para nenhum website ou bastante incompletas.
 
-Este é um repositório público que funciona como registo de assoiações não governamentais e sem fins lucrativos que trabalham em Portugal, com o objetivo de ajudar as pessoas ou os animais.
+Este é um repositório público que funciona como registo de associações não governamentais e sem fins lucrativos que trabalham em Portugal, com o objetivo de ajudar as pessoas ou os animais.
+
+**Nota**: Por mais que não seja possível fazer voluntariado junto destas associações, a esmagadora maioria permite apoiar com outros contributos, quer sejam esses partilhas nas redes sociais ou doações.
 
 ---
 

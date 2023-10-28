@@ -36,6 +36,7 @@ Este é um repositório público que funciona como registo de associações não
 | **Chão dos meninos** | [Link](https://www.chaodosmeninos.pt/areas-de-apoio-e-atividades/) | Apoio infantil; Familiar | Não | Évora
 | **Companheiros** | [Link](https://companheiro.org/wp/voluntariado/) | Apoio social | Não | Lisboa
 | **EAPN** | [Link](https://www.eapn.pt/quem-somos/voluntariado/) | Apoio social | Não | Portugal continental + Madeira
+| **EntrAjuda** | [Link](https://www.entrajuda.pt/) | Apoio a instituições de soloridariedade social | Não | Portugal 
 | **Just a change** | [Link](https://justachange.pt/en/volunteers/) | Habitação | Não | Portugal continental
 | **Liga Portuguesa contra o Cancro** | [Link](https://www.ligacontracancro.pt/como-voluntario/) | Apoio a pessoas com cancro | Não | Portugal continental
 | **Mundo a sorrir** | [Link](https://www.mundoasorrir.org/pt/voluntarios) | Saúde | Não | Portugal continental
